@@ -24,7 +24,7 @@
 
 ## Install
 
-git clone https://github.comdibofailet-hash/NetTools
+git clone https://github.com/dibofailet-hash/NetTools
 cd NetTools
 pip install -r requirements.txt
 
