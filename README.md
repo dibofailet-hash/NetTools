@@ -36,7 +36,7 @@ python core.py
 
 ## Download
 
-Grab the latest `.py` from [Releases](https://github.com/dibofailet-hash/NetTools/releases)
+Grab the latest `.py` from [Releases](https://github.com/hxvrman-1337/NetTools/releases)
 
 ## Screenshot
 
